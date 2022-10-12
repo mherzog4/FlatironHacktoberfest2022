@@ -1,47 +1,74 @@
-# Flatiron Hacktober fest2022
+# Flatiron Hacktoberfest 2022
+
 A beginner friendly way to learn how to contribute to an open source project and get credit for Hacktoberfest 2022
 
-❇️ Getting Started with Hacktoberfest
-Hacktoberfest is a month-long celebration of open source, organized by Digital Ocean. (More details here)
+## 😎Getting Started with Hacktoberfest
+Hacktoberfest is a month-long celebration of open source, organized by Digital Ocean.
 
-If you've never made a pull request before, or participated in an open-source project, we recommend taking a look at:
+If you've never made a pull request before, or participated in an open-source project, I recommend taking a look at:
 
-Our Start Here Guidelines
-Our Youtube Video.
-These two resources have everything you need to learn about open-source, with a step-by-step guide to making your very first PR. Once you've got your feet wet, you're ready to come back and dive into Hacktoberfest fun!
+DigitalOcean: [INTRODUCTION TO GITHUB AND OPEN-SOURCE PROJECTS](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
 
-Join the community!
+GitHub: [HOW TO CONTRIBUTE TO OPEN SOURCE](https://opensource.guide/how-to-contribute/)
 
-❇️ Rules
+DigitalOcean: [WHAT IS OPEN SOURCE](https://www.digitalocean.com/community/tutorials/what-is-open-source)
 
-
+DigitalOcean: [HOW TO USE GIT](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
 
 
-❇️ How to contribute
+## 👀Rules
 
-First up you need to fork (make a copy) of this repo to your Github account.
+[Register](https://hacktoberfest.com/) anytime between September 26 and October 31
 
-Clone (download) your fork to your computer
+Pull requests can be made in any Github or Gitlab hosted project that’s participating in Hacktoberfest (look for the “hacktoberfest” topic)
 
-Set your streams so you can sync your clone with the original repo (get the latest updates)
+Project maintainers must accept your pull/merge requests for them to count toward your total
 
-git remote add upstream https://github.com/mherzog4/FlatironHacktoberfest2022
-git pull upstream master
-The above 2 commands will synchronize your forked version of the project with the actual repository.
-Create a branch
+Have 4 pull/merge requests accepted between October 1 and October 31 to complete Hacktoberfest
 
-In the src directory (folder), create a directory named after yourself.
+The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
 
-Within this folder you just made, create four files, an HTML file, a CSS file, and a JS file.
+## 🚀How to contribute
 
-Pull from the upstream again, like we did in step 3. This is to ensure we still have the latest code.
+1. First up you need to fork (make a copy) of this repo to your Github account.
 
-git pull upstream master
-Commit and push the code to your fork
+2. Clone (download) your fork to your computer
 
-Create a pull request to have the changes merged from your fork into the origin
+3. Set your streams so you can sync your clone with the original repo (get the latest updates)
 
-Tweet about making your first Hacktoberfest pull request!
+   - `git remote add upstream https://github.com/mherzog4/FlatironHacktoberfest2022.git`
+   - `git pull upstream master`
+   - The above 2 commands will synchronize your forked version of the project with the actual repository.
 
-Congratulations! You are now one pull request closer to getting that free t-shirt. Repeat these steps until you have made at least 4 qualifying pull requests. You can check how many qualifying pull requests you have made at https://hacktoberfest.digitalocean.com/profile Have Fun and Happy Coding!
+4.  Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` or simply do `git checkout -b new-user`)
+
+
+5. Pull from the upstream again, like we did in step 3. This is to ensure we still have the latest code.
+
+    - `git pull upstream master`
+
+6. Commit and push the code to your fork
+
+7. Create a pull request to have the changes merged from your fork into the origin
+
+
+## Congratulations!🥳🎉👏
+
+You are now one pull request closer to getting that free t-shirt. 
+
+Repeat these steps until you have made at least 4 qualifying pull requests.
+
+Have Fun and Happy Coding!
+
+<hr/>
+
+If you have any questions reach out to me on [Linkedin](https://www.linkedin.com/in/mattherzog3/)
+
+Subscribe to my [Newsletter](https://mattherzog.substack.com/)
+
+Subscribe to my [Youtube Channel](https://www.youtube.com/channel/UCDzCTSF0N2HNG7lBDj22mFw)
+
+
+
+
 
