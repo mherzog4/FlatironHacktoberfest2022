@@ -68,7 +68,3 @@ Subscribe to my [Newsletter](https://mattherzog.substack.com/)
 
 Subscribe to my [Youtube Channel](https://www.youtube.com/channel/UCDzCTSF0N2HNG7lBDj22mFw)
 
-
-
-
-
