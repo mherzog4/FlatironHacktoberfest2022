@@ -1,8 +1,15 @@
 # Flatiron Hacktoberfest 2022
+<img src="Hacktoberfest_logo.png"
+     alt="Hacktoberfest 2022 logo"
+     style="float: left; margin-right: 10px;" />
 
-A beginner friendly way to learn how to contribute to an open source project and get credit for Hacktoberfest 2022
 
-## 😎Getting Started with Hacktoberfest
+
+
+## 😎Getting Started with Hacktoberfest:
+
+This is a beginner friendly way project with the goal of learning how to contribute to an open source project and get credit for Hacktoberfest 2022
+
 Hacktoberfest is a month-long celebration of open source, organized by Digital Ocean.
 
 If you've never made a pull request before, or participated in an open-source project, I recommend taking a look at:
@@ -16,7 +23,7 @@ DigitalOcean: [WHAT IS OPEN SOURCE](https://www.digitalocean.com/community/tutor
 DigitalOcean: [HOW TO USE GIT](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
 
 
-## 👀Rules
+## 👀Rules:
 
 [Register](https://hacktoberfest.com/) anytime between September 26 and October 31
 
@@ -28,7 +35,7 @@ Have 4 pull/merge requests accepted between October 1 and October 31 to complete
 
 The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
 
-## 🚀How to contribute
+## 🚀How to contribute:
 
 1. First up you need to fork (make a copy) of this repo to your Github account.
 
