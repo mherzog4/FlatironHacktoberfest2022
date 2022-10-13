@@ -68,21 +68,31 @@ The first 40,000 participants (maintainers and contributors) who complete Hackto
         {insert your message here!}
     </p>
     <li>
-        <a href="{Insert social media accounts">{insert social media accounts</a>
+        <a href="{Insert social media accounts">{insert social media accounts}</a>
     </li>
+    <!-- INSERT YOUR CODE BELOW THIS LINE -->
 }
 ```
 _Please keep `src/style.css` as it is._ 
 
+9. Add your contribution right below the comment 
 
-9. Commit and push the code to your fork
+```html 
+<!-- INSERT YOUR CODE BELOW THIS LINE -->
+```
+and above the 
+```html
 
-10. Create a pull request to have the changes merged from your fork into the origin
+  </body>
 
+```
+10. Commit and push the code to your fork
+
+11. Create a pull request to have the changes merged from your fork into the origin
 
 ## Congratulations!🥳🎉👏
 
-You are now one pull request closer to getting that free t-shirt. 
+You are now one pull request closer to getting that free t-shirt or a tree planted in your name. 
 
 Repeat these steps until you have made at least 4 qualifying pull requests.
 
