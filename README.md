@@ -1,5 +1,5 @@
 # Flatiron Hacktoberfest 2022
-<img src="Hacktoberfest_logo.png"
+<img src="./src/Hacktoberfest_logo.png"
      alt="Hacktoberfest 2022 logo"
      style="float: left; margin-right: 10px;" />
 
@@ -8,7 +8,7 @@
 
 ## 😎Getting Started with Hacktoberfest:
 
-This is a beginner friendly way project with the goal of learning how to contribute to an open source project and get credit for Hacktoberfest 2022
+This is a beginner friendly way project with the goal of learning how to contribute to an open source project and get credit for Hacktoberfest 2022.
 
 Hacktoberfest is a month-long celebration of open source, organized by Digital Ocean.
 
@@ -54,9 +54,30 @@ The first 40,000 participants (maintainers and contributors) who complete Hackto
 
     - `git pull upstream master`
 
-6. Commit and push the code to your fork
+6. create a folder named after yourself
 
-7. Create a pull request to have the changes merged from your fork into the origin
+7. upload a picture you would like to use in your contribution
+
+8. Go to the index.html file and use this code to get you started 
+
+```html
+{
+   <h1>{name}, Flatiron {area of study} Student ({cohort begin date - cohort end date})</h1>
+    <img src='./{Your_Folder_Name}/{Your_Image_Name}.jpg' class="image"> 
+    <p>
+        {insert your message here!}
+    </p>
+    <li>
+        <a href="{Insert social media accounts">{insert social media accounts</a>
+    </li>
+}
+```
+_Please keep `src/style.css` as it is._ 
+
+
+9. Commit and push the code to your fork
+
+10. Create a pull request to have the changes merged from your fork into the origin
 
 
 ## Congratulations!🥳🎉👏
