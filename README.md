@@ -63,7 +63,7 @@ The first 40,000 participants (maintainers and contributors) who complete Hackto
 ```html
 {
    <h1>{name}, Flatiron {area of study} Student ({cohort begin date - cohort end date})</h1>
-    <img src='./{Your_Folder_Name}/{Your_Image_Name}.jpg' class="image"> 
+    <img src='./src/{Your_Folder_Name}/{Your_Image_Name}.jpg' class="image"> 
     <p>
         {insert your message here!}
     </p>
